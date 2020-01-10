@@ -11,7 +11,7 @@ public class BankInfo extends AxisBank {
 	}
 	
 	public void deposit() {
-		System.out.println("BankInfo : Deposit Details");
+		System.out.println("BankInfo : Deposit Details commit");
 	}
 	
 	public static void main(String[] args) {
